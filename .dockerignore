@@ -1,2 +1,2 @@
 node_modules
-MONGODB_URI="mongodb+srv://natanielslowikowski:Piaskowy@notesapp.9indb.mongodb.net/phonebook?retryWrites=true&w=majority&appName=notesApp"
+.env
